@@ -1,11 +1,5 @@
-import logoAede from "../../../Assets/Logo/LogoAede_Completo2025.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faFacebookF,
-  faInstagram,
-  faYoutube,
-  faLinkedinIn,
-} from "@fortawesome/free-brands-svg-icons";
+
 import { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
@@ -69,9 +63,7 @@ const Header = () => {
     
     <header className={backgorundColor}>
       <div className="rect"></div>
-      <Link style={{ textDecoration: "none" }} to={"/"}>
-        <img className="logo" src={logoAede} alt="logo" style={{ height: '60px'}}/>
-      </Link>
+
       <div className="icono-menu">
 
         <button onClick={() => setShowResponsiveMenu(!showResponsiveMenu)}>MENÚ</button>

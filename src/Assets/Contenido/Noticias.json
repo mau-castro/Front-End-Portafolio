@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "La AEDE es fundada con el apoyo del Gobierno del Estado de Chihuahua",
+    "imagen": "/Assets/Landing/Noticias/FundacionAEDE.jpg",
+    "contenido": "el Congreso de Chihuahua creó la Agencia Estatal de Desarrollo Energético a propuesta de la Gobernadora María Eugenia Campos Galván. Esta agencia es un organismo público descentralizado cuyo objetivo es elevar la competitividad y promover la inversión (pública, social y privada) a través del desarrollo energético sustentable en el estado. Tendrá facultades para coordinarse con la federación y empresas, fomentar y apoyar proyectos con diversos sectores, promover la inversión en infraestructura energética sustentable y cooperar en la generación y uso eficiente de energía.",
+    "fechaPublicacion": "31/05/2022",
+    "link": "https://www.congresochihuahua.gob.mx/detalleNota.php?id=6314"
+  },  {
+    "titulo": "AEDE lleva a cabo el segundo foro expo energía 2024 en Chihuahua",
+    "imagen": "/Assets/Landing/Noticias/foroexpo.png",
+    "contenido": "El Foro-Expo de Energía 2024 en Chihuahua, organizado por la Agencia Estatal de Desarrollo Energético y otros, buscó impulsar prácticas sustentables. Reunió a líderes de diversos sectores para dialogar sobre desarrollo energético los días 17 y 18 de octubre. Contó con ponentes destacados, paneles de discusión y una exposición de más de 40 empresas. El acceso al evento fue gratuito para los interesados.",
+    "fechaPublicacion": "19/10/2024",
+    "link": "https://chihuahua.gob.mx/prensa/impulsan-intercambio-de-conocimientos-y-nuevas-practicas-sustentables-en-chihuahua-con-foro"
+  },
+{
+    "titulo": "Hágase la luz… Brindará Estado pánel solar y refri en 5 municipios",
+    "imagen": "/Assets/Landing/Noticias/hagaseluz.jpg",
+    "contenido": "El Gobierno de Chihuahua lanzó un programa para dotar de energía eléctrica a viviendas sin conexión en Bocoyna, Guachochi, Madera, Matachí y Moris. El apoyo consiste en la instalación de sistemas fotovoltaicos autónomos (paneles solares) que incluyen panel, montaje, inversor, controlador, baterías, gabinete, luminarias y refrigerador. Los interesados deben entregar una solicitud, identificación y comprobante de domicilio a la Agencia Estatal de Desarrollo Energético antes del 30 de abril de 2025, ya sea en sus oficinas en Chihuahua o por correo electrónico. Se priorizará a comunidades sin red eléctrica, en pobreza, con jefas de familia o personas con discapacidad, entre otros criterios. Para más información, contactar a la Agencia.",
+    "fechaPublicacion": "12/03/2025",
+    "link": "https://www.tiempo.com.mx/noticia/aede_instalaran_energia_solar_viviendas_municipios_chihuahua_2025/"
+  },
+  {
+    "titulo": "Chihuahua se convierte en el tercer estado en el país con mayor capacidad de generación",
+    "imagen": "/Assets/Landing/Noticias/CrecimientoGeneracion.png",
+    "contenido": "De acuerdo a las Solicitudes de Interconexión de las centrales eléctricas con capacidad menor a 0.5 MW publicado por el Gobierno Federal en conjunto con la Comision Reguladora de Energia (CRE), Chihuahua se posiciona como el tercer estado con mayor capacidad de generación de energía eléctrica en el país.",
+    "fechaPublicacion": "09/05/2025",
+    "link": "https://www.gob.mx/cms/uploads/attachment/file/971414/Estad_sticas_GD_Segundo_Semestre_2024.pdf"
+  }
+]

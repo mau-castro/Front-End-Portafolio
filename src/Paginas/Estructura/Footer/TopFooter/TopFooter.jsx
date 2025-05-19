@@ -1,8 +1,6 @@
-import Sucursal from "./Sucursal";
-import Data from "../../DataStructure.json";
+
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import ModalAvisoPrivacidad from "./ModalAvisoPrivacidad";
 
 const TopFooter = () => {
   const [modal, setModal] = useState(false);

@@ -31,10 +31,10 @@
   height: 20px;
   width: 20px;
   border: solid;
-  border-color: #9568C6;
+  border-color: #FFFFFF;
   border-radius: 50px;
   border-width: 1px;
-  color: #9568C6;
+  color: #FFFFFF;
 }
 .modal-container .modal .modal-title .modal-close-button:hover {
   cursor: pointer;
@@ -66,7 +66,7 @@
   transform: translateY(-50%);
   width: calc(6em + 12vw);
   height: calc(0.5em + 1vw);
-  background-color: #9568C6;
+  background-color: #FFFFFF;
 }
 .titulo-pestania::after {
   content: "";
@@ -76,7 +76,7 @@
   transform: translateY(-50%);
   width: calc(6em + 12vw);
   height: calc(0.5em + 1vw);
-  background-color: #004EAA;
+  background-color: #2C3E50;
 }
 
 @font-face {
@@ -131,7 +131,7 @@ header {
   justify-content: space-between;
   gap: 20px;
   padding: 20px 40px;
-  background: linear-gradient(to right bottom, #9568C6 5%, #004EAA 50%);
+  background: linear-gradient(to right bottom, #FFFFFF 5%, #2C3E50 50%);
   z-index: 100;
 }
 header h2 {
@@ -222,7 +222,7 @@ header .modalidades-list .modalidad-select p {
   font-size: 0.8rem;
 }
 header .modalidades-list .modalidad-select:hover {
-  background-color: #004EAA;
+  background-color: #2C3E50;
   cursor: pointer;
 }
 header .modalidades-list .modalidad-select:hover p {
@@ -233,11 +233,11 @@ header .modalidades-list .modalidad-select:hover img {
 }
 
 .header {
-  background-color: #004eaa;
+  background-color: #2c3e50;
 }
 
 .header-color {
-  background-color: rgba(0, 78, 170, 0.9);
+  background-color: rgba(44, 62, 80, 0.9);
   padding: 10px 40px;
   animation-name: header-color-animation;
   animation-duration: 0.5s;
@@ -353,7 +353,7 @@ header .modalidades-list .modalidad-select:hover img {
 }
 .top-footer {
   margin-top: -5px;
-  background: #004EAA;
+  background: #2C3E50;
   display: flex;
   flex-wrap: wrap; /* Permite que los elementos se ajusten en filas si es necesario */
   justify-content: space-between; /* Espaciado entre columnas */
@@ -500,7 +500,7 @@ header .modalidades-list .modalidad-select:hover img {
   padding-left: 20px;
 }
 .landing .contenedor-textos .icono {
-  background-color: #117eff;
+  background-color: #507192;
   padding: clamp(1rem, 2vw, 2rem);
   border-radius: 100%;
   font-size: clamp(1.5rem, 2.5vw, 2.5rem);
@@ -514,7 +514,7 @@ header .modalidades-list .modalidad-select:hover img {
   font-family: "Red Hat Display", sans-serif;
 }
 .landing .contenedor-textos h1 span {
-  color: #004EAA;
+  color: #2C3E50;
   font-weight: 600;
 }
 .landing .contenedor-textos h2 {
@@ -709,20 +709,20 @@ header .modalidades-list .modalidad-select:hover img {
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  background-color: #004EAA;
+  background-color: #2C3E50;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 .landing .noticias .botones-navegacion button:hover {
-  background-color: #003777;
+  background-color: #1a252f;
 }
 .landing .noticias .botones-navegacion button.retroceder {
-  background-color: #0065dd;
+  background-color: #3e5871;
 }
 .landing .noticias .botones-navegacion button.avanzar {
-  background-color: #003777;
+  background-color: #1a252f;
 }
 @media (max-width: 768px) {
   .landing .noticias .noticia .contenido {
@@ -751,7 +751,7 @@ header .modalidades-list .modalidad-select:hover img {
     font-size: clamp(1.2rem, 10vw, 2.8rem);
   }
   .landing .contenedor-textos h1 span {
-    color: #004EAA;
+    color: #2C3E50;
   }
   .landing .contenedor-textos h2 {
     color: gray;

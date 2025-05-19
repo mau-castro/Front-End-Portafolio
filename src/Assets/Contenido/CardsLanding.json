@@ -1,0 +1,22 @@
+[
+    {
+        "image": "Assets/Landing/Hovers/CrecimientoEconomico.png",
+        "title": "Crecimiento Económico",
+        "subtitle": "Diseñamos iniciativas que aseguren el crecimiento económico y prioricen la generación de ahorros para su traslado a proyectos que beneficien a localidades  marginadas."
+    },
+    {
+        "image": "Assets/Landing/Hovers/EnergiasRenovables.png",
+        "title": "Energías Renovables",
+        "subtitle": "Promovemos el desarrollo de autoabastecimiento y aprovechamiento de las fuentes de energías renovables."
+    },
+    {
+        "image": "Assets/Landing/Hovers/CapitalHumanoTecnologico.png",
+        "title": "Capital Humano y Tecnológico",
+        "subtitle": "Fomentamos el desarrollo de capital humano, científico y tecnológico, con el objetivo de propiciar la generación de oportunidades de empleo de calidad."
+    },
+    {
+        "image": "Assets/Landing/Hovers/NuevasTecnologias.png",
+        "title": "Nuevas tecnologías",
+        "subtitle": "Impulsamos la adopción de tecnologías en materia de energía que permitan mayor eficiencia y eficacia en los procesos industriales."
+    }
+]

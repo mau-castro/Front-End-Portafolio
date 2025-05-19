@@ -1,0 +1,326 @@
+{
+    "Directorio": {
+"empleados": [
+                {
+                    "Id": 1,
+                    "nombreCompleto": "Luis Mauricio Castro Gutiérrez",
+                    "nombre": "Mauricio Castro",
+                    "puesto": "Enlace Informático",
+                    "telefono": "614-429-3300",
+                    "email": "luis.castro@aedechihuahua.mx",
+                    "ext": 24610,
+                    "departamento": 4,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 2,
+                    "nombreCompleto": "Luis Carlos Hernández Ayala",
+                    "nombre": "Luis Hernández",
+                    "puesto": "Director General",
+                    "telefono": "614-429-3300",
+                    "email": "luis.carlos@aedechihuahua.mx",
+                    "ext": 24601,
+                    "departamento": 1,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 3,
+                    "nombreCompleto": "Gabriel Ángel Millán Caballero",
+                    "nombre": "Gabriel Millán",
+                    "puesto": "Director de Electricidad",
+                    "telefono": "614-429-3300",
+                    "email": "gabriel.millan@aedechihuahua.mx",
+                    "ext": 24604 ,
+                    "departamento": 5,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 4,
+                    "nombreCompleto": "Luis Óscar Briones Alonso",
+                    "nombre": "Óscar Briones",
+                    "puesto": "Jefe de Departamento de Coordinación de Fideicomisos",
+                    "telefono": "614-429-3300",
+                    "email": "luis.briones@aedechihuahua.mx",
+                    "ext": 24635,
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 5,
+                    "nombreCompleto": "Brissa Marly Carrillo Borruel",
+                    "nombre": "Brissa Carrillo",
+                    "puesto": "Directora de Administración y Finanzas",
+                    "telefono": "614-429-3300",
+                    "email": "brissa.carillo@aedechihuahua.mx",
+                    "ext": 24606,
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 6,
+                    "nombreCompleto": "Julia Irene González Magallanes",
+                    "nombre": "Julia González",
+                    "puesto": "Jefa de Departamento Administrativo",
+                    "telefono": "614-429-3300",
+                    "email": "julia.gonzalez@aedechihuahua.mx",
+                    "ext": 24634,
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 7,
+                    "nombreCompleto": "María Estela Soto Sosa",
+                    "nombre": "María Soto",
+                    "puesto": "Trabajadora Manual",
+                    "telefono": "614-429-3300",
+                    "email": "NA",
+                    "ext": "NA",
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 8,
+                    "nombreCompleto": "Irma Ramos Rodríguez",
+                    "nombre": "Irma Ramos",
+                    "puesto": "Trabajadora Manual",
+                    "telefono": "614-429-3300",
+                    "email": "NA",
+                    "ext": "NA",
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 9,
+                    "nombreCompleto": "Ana Victoria Antillón Licón",
+                    "nombre": "Ana Antillón",
+                    "puesto": "Enlace de Concursos y Contratos",
+                    "telefono": "614-429-3300",
+                    "email": "ana.antillon@aedechihuahua.mx",
+                    "ext": 24637,
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png" 
+                },
+                {
+                    "Id": 10,
+                    "nombreCompleto": "Yohana Ontiveros Fierro",
+                    "nombre": "Yohana Ontiveros",
+                    "puesto": "Enlace de Proyectos y Gestión de Trámites",
+                    "telefono": "614-429-3300",
+                    "email": "yohana.ontiveros@aedechihuahua.mx",
+                    "ext": 24638,
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 11,
+                    "nombreCompleto": "Nancy Guadalupe Ramírez Castro",
+                    "nombre": "Nancy Guadalupe",
+                    "puesto": "Enlace de Contabilidad, Recursos Humanos y Materiales",
+                    "telefono": "614-429-3300",
+                    "email": "nancy.ramirez@aedechihuahua.mx",
+                    "ext": 24634,
+                    "departamento": 2,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 12,
+                    "nombreCompleto": "Blanca Georgina Juárez Domínguez",
+                    "nombre": "Blanca Juárez",
+                    "puesto": "Directora de Asuntos Jurídicos",
+                    "telefono": "614-429-3300",
+                    "email": "blanca.juarez@aedechihuahua.mx",
+                    "ext": 24607,
+                    "departamento": 3,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 14,
+                    "nombreCompleto": "Luisa Viviana García Cano",
+                    "nombre": "Luisa García",
+                    "puesto": "Jefa de Departamento Jurídico",
+                    "telefono": "614-429-3300",
+                    "email": "luisa.garcia@aedechihuahua.mx",
+                    "ext": 24642,
+                    "departamento": 3,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                
+                {
+                    "Id": 16,
+                    "nombreCompleto": "Abraham Redekop Portillo",
+                    "nombre": "Abraham Redekop",
+                    "puesto": "Jefe de Departamento de Desarrollo de Hidrocarburos",
+                    "telefono": "614-429-3300",
+                    "email": "abraham.redekop@aedechihuahua.mx",
+                    "ext": "NA",
+                    "departamento": 6,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 17,
+                    "nombreCompleto": "Andrea Sofía Loo Tarín",
+                    "nombre": "Andrea Loo",
+                    "puesto": "Particular",
+                    "telefono": "614-429-3300",
+                    "email": "andrea.loo@aedechihuahua.mx",
+                    "ext": 24602,
+                    "departamento": 1,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 18,
+                    "nombreCompleto": "Rosalinda Chávez Ortega",
+                    "nombre": "Rosalinda Chávez",
+                    "puesto": "Recepción y Oficialía de Partes",
+                    "telefono": "614-429-3300",
+                    "email": "rosalinda.chavez@aedechihuahua.mx",
+                    "ext": 24600,
+                    "departamento": 1,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 19,
+                    "nombreCompleto": "Sophia Puente Magdaleno",
+                    "nombre": "Sophia Puente",
+                    "puesto": "Jefa de Departamento de Planeación",
+                    "telefono": "614-429-3300",
+                    "email": "sophia.puente@aedechihuahua.mx",
+                    "ext": 24612,
+                    "departamento": 4,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 20,
+                    "nombreCompleto": "Jorge Eduardo Torres Dorantes",
+                    "nombre": "Jorge Torres",
+                    "puesto": "Director de Planeación y Vinculación Institucional",
+                    "telefono": "614-429-3300",
+                    "email": "jorge.torres@aedechihuahua.mx",
+                    "ext": 24603,
+                    "departamento": 4,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 21,
+                    "nombreCompleto": "Renata Robles Serrano",
+                    "nombre": "Renata Robles",
+                    "puesto": "Jefa de Departamento de Vinculación",
+                    "telefono": "614-429-3300",
+                    "email": "renata.robles@aedechihuahua.mx",
+                    "ext": "NA",
+                    "departamento": 4,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"    
+                },
+                {
+                    "Id": 22,
+                    "nombreCompleto": "José Luis Esparza Corral",
+                    "nombre": "José Esparza",
+                    "puesto": "Jefe de Departamento de Fomento de Eficiencia Energética y Energías Renovables del Sector Eléctrico",
+                    "telefono": "614-429-3300",
+                    "email": "jose.esparza@aedechihuahua.mx",
+                    "ext": 24618,
+                    "departamento": 5,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 23,
+                    "nombreCompleto": "Pablo Antonio Maceiras Villalobos",
+                    "nombre": "Pablo Maceiras",
+                    "puesto": "Enlace de Transición Energética y sustentabilidad",
+                    "telefono": "614-429-3300",
+                    "email": "pablo.maceiras@aedechihuahua.mx",
+                    "ext": 24619,
+                    "departamento": 5,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 24,
+                    "nombreCompleto": "Karen Pamela Villarreal Ortega",
+                    "nombre": "Karen Villarreal",
+                    "puesto": "Jefa de Departamento de Proyectos y Programas de Electricidad",
+                    "telefono": "614-429-3300",
+                    "email": "karen.villarreal@aedechihuahua.mx",
+                    "ext": 24618,
+                    "departamento": 5,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 25,
+                    "nombreCompleto": "Caren Martínez Audiffred",
+                    "nombre": "Caren Martínez",
+                    "puesto": "Directora de Hidrocarburos",
+                    "telefono": "614-429-3300",
+                    "email": "caren.martinez@aedechihuahua.mx",
+                    "ext": 24605,
+                    "departamento": 6,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 26,
+                    "nombreCompleto": "Sergio Erick Hernández Pérez",
+                    "nombre": "Erick Hernández",
+                    "puesto": "Jefe de Departamento de Proyectos y Programas de Hidrocarburos",
+                    "telefono": "614-429-3300",
+                    "email": "sergio.hernandez@aedechihuahua.mx",
+                    "ext": "NA",
+                    "departamento": 6,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 27,
+                    "nombreCompleto": "Luis Daniel Gramer Aguirre",
+                    "nombre": "Daniel Gramer",
+                    "puesto": "Enlace de Evaluación de Proyectos",
+                    "telefono": "614-429-3300",
+                    "email": "luis.gramer@aedechihuahua.mx",
+                    "ext": "NA",
+                    "departamento": 6,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 28,
+                    "nombreCompleto": "María Alejandra Arrieta Flores",
+                    "nombre": "Alejandra Arrieta",
+                    "puesto": "Enlace de Programas Sociales",
+                    "telefono": "614-429-3300",
+                    "email": "maria.arrieta@aedechihuahua.mx",
+                    "ext": "NA",
+                    "departamento": 1,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 29,
+                    "nombreCompleto": "Mariana Juárez Juárez",
+                    "nombre": "Mariana Juárez",
+                    "puesto": "Jefe de Departamento del Desarrollo de Sistemas de Hidrocarburos",
+                    "telefono": "614-429-3300",
+                    "email": "mariana.juarez@aedechihuahua.mx",
+                    "ext": "NA",
+                    "departamento": 6,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                },
+                {
+                    "Id": 30,
+                    "nombreCompleto": "Juan Carlos Rueda Leal",
+                    "nombre": "Juan Rueda",
+                    "puesto": "Jefe de Departamento de Sistema Eléctrico",
+                    "telefono": "614-429-3300",
+                    "email": "juan.rueda@aedechihuahua.mx",
+                    "ext": 24619,
+                    "departamento": 5,
+                    "fotografia": "Assets/Directorio/Persona_Anonima.png"     
+                }
+
+
+
+
+
+                
+
+            ]
+
+
+
+    }
+
+}

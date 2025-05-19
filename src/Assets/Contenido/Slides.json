@@ -1,0 +1,14 @@
+[
+    {
+      "image": "Assets/Slides/PanelesSolares.png",
+      "title": "Chihuahua",
+      "subtitle": "Referente del desarrollo energético sustentable",
+      "Color": "#ffffff"
+    },
+    {
+      "image": "Assets/Slides/Gasoductos.png",
+      "title": "Seguridad Energética",
+      "subtitle": "El Estado con la mayor red de gasoductos en México",
+      "Color": "#005189"
+    }
+  ]

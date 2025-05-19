@@ -1,0 +1,17 @@
+{
+    "QuienesSomos": {
+        "tiutlo": "¿Qué es AEDE?",
+        "subtitulo": "Somos el organismo del Gobierno del Estado de Chihuahua encargado de promover proyectos estratégicos encaminados al desarrollo energético sustentable, buscando la preservación del medio ambiente, así como la creación de un entorno económico competitivo para la atracción de inversiones en beneficio de la ciudadanía. Buscamos que Chihuahua sea un referente en producción y manejo de energía, brindando garantía de disponibilidad para nuevos proyectos, sin mermar el suministro doméstico",
+        "mision": "Impulsar el desarrollo energético sustentable del Estado de Chihuahua, que promueva la atracción de inversión pública y privada en atención a los sectores productivo, social y de servicio.",
+        "vision": "Ser la institución que promueva el potencial energético del Estado atrayendo la inversión pública y privada para obras de los sectores eléctrico e hidrocarburos que posicione a Chihuahua como una entidad competitiva, eficiente e innovadora.",
+        "valores": [
+          "Valor Compartido",
+          "Equidad",
+          "Innovación",
+          "Sustentabilidad",
+          "Resiliencia",
+          "Inclusión",
+          "Orientación por resultados"
+        ]
+      }
+}

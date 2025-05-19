@@ -1,12 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import { Link } from 'react-router-dom';
-import {
-  faFacebookF,
-  faInstagram,
-  faYoutube,
-  faLinkedinIn,
-} from '@fortawesome/free-brands-svg-icons';
+
 const ResponsiveMenu = ({handler}) => {
   const redirect = () => {
     window.open('www.facebook.com', '_blank');

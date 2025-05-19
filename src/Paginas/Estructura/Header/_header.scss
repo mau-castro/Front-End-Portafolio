@@ -6,7 +6,7 @@ header {
   justify-content: space-between;
   gap: 20px;
   padding: 20px 40px;
-  background: linear-gradient(to right bottom, #9568C6  5%,  #004EAA 50%); // Crea un efecto diagonal
+  background: linear-gradient(to right bottom, $secondary-color  5%,  $primary-color 50%); // Crea un efecto diagonal
   z-index: 100;
   h2 {
     width: 120px;
