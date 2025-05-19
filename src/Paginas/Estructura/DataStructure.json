@@ -1,0 +1,10 @@
+{
+    "sucursales": [
+        {
+            "id": 1,
+            "sucursal":"Estamos Ubicados en:",
+            "telefono": "(614)-429-33-00 Ext. 24600",
+            "direccion": "Av. Melchor Ocampo No. 2004, Zona Centro II, 31020 Chihuahua, Chihuahua"
+        }
+    ]
+}

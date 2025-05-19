@@ -1,0 +1,126 @@
+.top-footer {
+  margin-top: -5px;
+  background: $primary-color;
+  display: flex;
+  flex-wrap: wrap; /* Permite que los elementos se ajusten en filas si es necesario */
+  justify-content: space-between; /* Espaciado entre columnas */
+  align-items: flex-start; /* Alinea los elementos al inicio verticalmente */
+  padding: 30px;
+  position: relative; /* Para posicionar el logo de GitHub */
+  height: auto;
+  .logo-container {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .sucursal {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    color: $white;
+    gap: 20px;
+
+    h3 {
+      font-size: 16pt;
+    }
+  }
+
+  .about {
+    width: 30%;
+    color: $white;
+
+    h3 {
+      font-size: 16pt;
+      margin-bottom: 20px;
+    }
+
+    h4 {
+      margin-bottom: 10px;
+      font-size: 11pt;
+      font-weight: 400;
+
+      &:hover {
+        cursor: pointer;
+        color: $gray;
+      }
+    }
+  }
+
+  .github-container {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    .github-icon {
+      width: 24px;
+      transition: transform 0.3s;
+    }
+
+    .github-icon:hover {
+      transform: scale(1.2);
+    }
+
+    .tooltip {
+      margin-left: 10px;
+      background-color: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      padding: 5px 10px;
+      border-radius: 5px;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-phone) {
+  .top-footer {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    .logo-container {
+      width: 70%;
+    }
+
+    .sucursal {
+      width: 70%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      .icon-container{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+    }
+
+    .about {
+      width: 80%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      .options {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+
+    .github-container {
+      position: static; /* Para que no se salga del flujo en pantallas pequeñas */
+      margin-top: 20px;
+
+      .tooltip {
+        font-size: 10px;
+      }
+    }
+  }
+}
